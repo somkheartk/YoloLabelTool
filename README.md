@@ -1,4 +1,4 @@
-1.ให้ทำการ Copy ภาพใส่ใน Folder Images 
+1.ให้ทำการ Copy ภาพใส่ใน Folder Images <br>
 2.เมื่อทำการ label โปรแกรมจะสร้างไฟล์ Text ชื่อเดียวกับภาพ
 เช่น 001.jpg label จะเป็น 001.txt
 
